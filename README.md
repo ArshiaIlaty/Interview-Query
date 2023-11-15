@@ -1,4 +1,4 @@
-# Interviwe-Query
+# Interview-Query
 
 Inspired by Jey Feng's insightful YouTube videos, I embarked on a journey to enhance my interview preparation. Delving into the challenging questions posed on his website, I honed my skills to confidently tackle potential interviews.
 
